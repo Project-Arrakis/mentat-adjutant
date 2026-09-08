@@ -40,9 +40,9 @@ appropriate role, then type `/dune` in any channel.
 
 ## Getting Help
 
-- **Usage questions:** [Discussions → Q&A](../../discussions/categories/q-a)
+- **Usage questions:** [Discussions → Q&A](https://github.com/Project-Arrakis/mentat-adjutant/discussions/categories/q-a)
 - **Bugs, feature requests, compatibility problems, documentation
-  issues:** [open an issue](../../issues/new/choose) using the matching
+  issues:** [open an issue](https://github.com/Project-Arrakis/mentat-adjutant/issues/new/choose) using the matching
   form
 - **Security vulnerabilities:** see [SECURITY.md](SECURITY.md) — do not
   file these as public issues or Discussions
@@ -50,7 +50,7 @@ appropriate role, then type `/dune` in any channel.
 
 ## Discussions
 
-This repository uses [GitHub Discussions](../../discussions) for:
+This repository uses [GitHub Discussions](https://github.com/Project-Arrakis/mentat-adjutant/discussions) for:
 
 - **Announcements** — release notes and project status
 - **General** — open-ended conversation
